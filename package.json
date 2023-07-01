@@ -1,0 +1,21 @@
+{
+  "name": "nodejstraining",
+  "version": "1.0.0",
+  "description": "This is Nodejs Training for freshers to experience",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test",
+    "build" : "npm install",
+    "start" : "node server.js"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chhabriamuskan31/NodejsTraining.git"
+  },
+  "author": "Muskan Chhabria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chhabriamuskan31/NodejsTraining/issues"
+  },
+  "homepage": "https://github.com/chhabriamuskan31/NodejsTraining#readme"
+}
